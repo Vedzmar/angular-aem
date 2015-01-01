@@ -1,2 +1,2 @@
-#base=source
-js/test.js
+#base=source/js
+test.js

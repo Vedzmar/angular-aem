@@ -5,7 +5,7 @@
     final XSSAPI xss = sling.getService(XSSAPI.class);
 
     /* Page Properties */
-    final String pageTitle = currentPage.getPageTitle();
+    final String pageTitle = currentPage.getTitle();
     final String pageDescription = currentPage.getDescription();
 %>
 <head>
