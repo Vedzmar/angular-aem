@@ -4,4 +4,4 @@
 %><cq:include script="/libs/cq/cloudserviceconfigs/components/servicelibs/servicelibs.jsp"/><%
     currentDesign.writeCssIncludes(pageContext); %>
 
-<cq:includeClientLib css="angular-aem.all"/>
+<cq:includeClientLib css="angular-aem.main"/>
